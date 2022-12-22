@@ -1,0 +1,12 @@
+C:\Users\user\Desktop\DIContainer\DependencyInjectionContainer\bin\Debug\net6.0\DependencyInjectionContainer.deps.json
+C:\Users\user\Desktop\DIContainer\DependencyInjectionContainer\bin\Debug\net6.0\DependencyInjectionContainer.dll
+C:\Users\user\Desktop\DIContainer\DependencyInjectionContainer\bin\Debug\net6.0\DependencyInjectionContainer.pdb
+C:\Users\user\Desktop\DIContainer\DependencyInjectionContainer\obj\Debug\net6.0\DependencyInjectionContainer.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\DIContainer\DependencyInjectionContainer\obj\Debug\net6.0\DependencyInjectionContainer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\DIContainer\DependencyInjectionContainer\obj\Debug\net6.0\DependencyInjectionContainer.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\DIContainer\DependencyInjectionContainer\obj\Debug\net6.0\DependencyInjectionContainer.AssemblyInfo.cs
+C:\Users\user\Desktop\DIContainer\DependencyInjectionContainer\obj\Debug\net6.0\DependencyInjectionContainer.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\DIContainer\DependencyInjectionContainer\obj\Debug\net6.0\DependencyInjectionContainer.dll
+C:\Users\user\Desktop\DIContainer\DependencyInjectionContainer\obj\Debug\net6.0\refint\DependencyInjectionContainer.dll
+C:\Users\user\Desktop\DIContainer\DependencyInjectionContainer\obj\Debug\net6.0\DependencyInjectionContainer.pdb
+C:\Users\user\Desktop\DIContainer\DependencyInjectionContainer\obj\Debug\net6.0\ref\DependencyInjectionContainer.dll
